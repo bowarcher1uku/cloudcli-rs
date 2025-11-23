@@ -1,0 +1,2 @@
+# cloudcli-rs
+Python script
